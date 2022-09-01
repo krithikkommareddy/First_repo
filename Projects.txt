@@ -1,3 +1,5 @@
 APi projects
 Visualization projects
 Data engineering
+data science 
+data analysis
